@@ -1,0 +1,6 @@
+# Build artifacts
+*.o
+*.out
+fie_demo
+mce_demo
+build/
